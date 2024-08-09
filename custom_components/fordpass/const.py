@@ -85,6 +85,13 @@ WINDOW_POSITIONS = {
 }
 
 REGIONS = {
+    "Germany": {
+        "region": "1E8C7794-FF5F-49BC-9596-A1E0C86C5B19",
+        "locale": "de-DE",
+        "locale_short": "DE",
+        "locale_url": "https://login.ford.de",
+        "countrycode": "GER"
+    },
     "Netherlands": {
         "region": "1E8C7794-FF5F-49BC-9596-A1E0C86C5B19",
         "locale": "nl-NL",
