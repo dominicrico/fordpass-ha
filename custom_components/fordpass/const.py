@@ -27,7 +27,7 @@ COORDINATOR = "coordinator"
 
 REGION = "region"
 
-REGION_OPTIONS = ["Netherlands", "UK&Europe", "Australia", "USA", "Canada"]
+REGION_OPTIONS = ["Germany", "Netherlands", "UK&Europe", "Australia", "USA", "Canada"]
 DEFAULT_REGION = "USA"
 
 SENSORS = {
