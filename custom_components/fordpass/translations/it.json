@@ -25,8 +25,9 @@
                 "title": "Seleziona il veicolo da aggiungere",
                 "description": "Verranno visualizzati solo i veicoli attualmente non aggiunti",
                 "data": {
-                  "vin": "VIN"
+                    "vin": "VIN"
                 }
+<<<<<<< HEAD
               },
               "vin": {
                 "title": "Inserimento manuale del vin",
@@ -34,6 +35,8 @@
                 "data": {
                     "vin": "Numero di telaio del veicolo"
                 }
+=======
+>>>>>>> 1.70
             }
         }
     },
